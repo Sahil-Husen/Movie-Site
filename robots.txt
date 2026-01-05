@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://dhobi-ghat-movie.vercel.app/sitemap.xml
